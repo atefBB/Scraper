@@ -1,0 +1,14 @@
+{
+    "name": "atef/goutte",
+    "description": "Scrap Google SERP",
+    "type": "project",
+    "require": {
+        "fabpot/goutte": "^3.2"
+    },
+    "authors": [
+        {
+            "name": "Atef Ben Ali",
+            "email": "atef.bettaib@gmail.com"
+        }
+    ]
+}
